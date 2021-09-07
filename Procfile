@@ -1,0 +1,1 @@
+worker: python3 C:\Users\pijus\Documents\Source codes\Discord bots\trial bot\trialBot.py
